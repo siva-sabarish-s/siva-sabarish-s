@@ -44,6 +44,6 @@
 ---
 
 <!-- Bottom Unique Gradient Banner -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=150&section=footer)
-
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+</p>
