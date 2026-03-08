@@ -53,6 +53,8 @@
 
 ## 🧠 Chip Design Simulation
 
+## 🧩 Semiconductor Processing
+
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
-</p>>
+<img src="https://media.giphy.com/media/xT0GqeSlGSRQut8YH6/giphy.gif" width="500">
+</p>
