@@ -1,14 +1,18 @@
 <!-- Top Gradient Header -->
 
+<!-- Circuit Animation -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Sivasabarish+S"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700">
 </p>
 
----
+<!-- Animated Intro -->
+
+<h1 align="center">👋 Hey I'm Sivasabarish S</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sivasabarish;FPGA+%7C+VLSI+Developer;Embedded+Systems+Engineer;Electronics+Innovator" />
-</p> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=VLSI+Design+Enthusiast;FPGA+Engineer;Embedded+Systems+Explorer;Electronics+Innovator"/>
+</p>
 
 ---
 <p align="center">
