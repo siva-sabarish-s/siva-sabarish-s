@@ -1,14 +1,8 @@
 <!-- Top Gradient Header -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Sivasabarish+S"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Sivasabarish+S;VLSI+Design+Engineer;FPGA+Developer;Embedded+Systems+Enthusiast" />
 </p>
-
-<!-- Animated Intro -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Sivasabarish+S"/>
-</p>
-
 ---
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
