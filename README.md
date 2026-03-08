@@ -11,11 +11,6 @@
 </p>
 
 ---
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🚀 About Me
 
@@ -31,12 +26,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,matlab,linux,github,vscode,c" />
 </p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
