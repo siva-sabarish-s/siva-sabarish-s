@@ -34,11 +34,9 @@
 
 ---
 
-## 📊 GitHub Contribution Graph
+## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siva-sabarish-s&theme=github-compact&hide_border=true" />
-</p>
+![Snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
