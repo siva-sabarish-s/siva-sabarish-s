@@ -1,9 +1,7 @@
 <!-- Top Gradient Header -->
 
-<!-- Circuit Animation -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Sivasabarish+S;Sivasabarish+S;Sivasabarish+S"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Sivasabarish+S"/>
 </p>
 
 <!-- Animated Intro -->
