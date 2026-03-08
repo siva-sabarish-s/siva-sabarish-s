@@ -12,6 +12,12 @@
 
 ---
 
+## 👾 Pac-Man Contribution Graph
+
+![Pacman](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 About Me
 
 - 🎓 Passionate about **VLSI Design & Semiconductor Systems**
