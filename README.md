@@ -11,11 +11,11 @@
 </p>
 
 ---
+## 👾 Pac-Man Eats My Name
 
-## 👾 Pac-Man Contribution Graph
-
-![Pacman](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+<img src="https://github.com/siva-sabarish-s/siva-sabarish-s/blob/main/pacman-name.gif" width="600">
+</p>
 ---
 
 ## 🚀 About Me
