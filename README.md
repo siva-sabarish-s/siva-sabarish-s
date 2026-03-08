@@ -11,12 +11,7 @@
 </p>
 
 ---
-## 👾 Pac-Man Eats My Name
-
-<p align="center">
-<img src="https://github.com/siva-sabarish-s/siva-sabarish-s/blob/main/pacman-name.gif" width="600">
-</p>
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sivasabarish%20S&fontSize=50&fontColor=ffffff)
 
 ## 🚀 About Me
 
