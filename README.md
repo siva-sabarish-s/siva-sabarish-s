@@ -1,6 +1,8 @@
 <!-- Top Gradient Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:000000&height=250&section=header&text=Sivasabarish%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<p align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"> Hey I'm Sivasabarish S
+</p>
 
 <h2 align="center">Hey 👋 I'm SIVASABARISH S</h2>
 
