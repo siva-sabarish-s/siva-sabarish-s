@@ -46,5 +46,5 @@
 <!-- Bottom Unique Gradient Banner -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Digital%20Circuit%20Engineer&fontSize=40&fontColor=00ffff&animation=twinkling"/>
 </p>
