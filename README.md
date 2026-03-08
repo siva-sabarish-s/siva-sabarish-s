@@ -1,11 +1,20 @@
 <!-- Top Gradient Header -->
 
+<h1 align="center">Sivasabarish S</h1>
+
+<!-- Animation Section -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Sivasabarish+S;VLSI+Design+Engineer;FPGA+Developer;Embedded+Systems+Enthusiast" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700">
 </p>
----
+
+<!-- Intro Section -->
+
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+👋 Hey I'm Sivasabarish S <br>
+VLSI Design Engineer <br>
+FPGA Developer <br>
+Embedded Systems Enthusiast
 </p>
 
 ---
