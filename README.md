@@ -10,8 +10,9 @@
 
 ---
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p> 
+
 ---
 
 ## 👾 Contribution Graph
