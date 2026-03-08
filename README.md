@@ -50,11 +50,8 @@
 ---
 
 <!-- Bottom Unique Gradient Banner -->
-
-## 🧠 Chip Design Simulation
-
-## 🧩 Semiconductor Processing
+## 🔬 Digital Logic Activity
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT0GqeSlGSRQut8YH6/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600">
 </p>
