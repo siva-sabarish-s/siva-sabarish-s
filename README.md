@@ -1,10 +1,8 @@
 <!-- Top Gradient Header -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"> Hey I'm Sivasabarish S
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Sivasabarish+S"/>
 </p>
-
-<h2 align="center">Hey 👋 I'm SIVASABARISH S</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sivasabarish;FPGA+%7C+VLSI+Developer;Embedded+Systems+Engineer;Electronics+Innovator" />
