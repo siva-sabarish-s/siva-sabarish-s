@@ -3,7 +3,7 @@
 <!-- Circuit Animation -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Sivasabarish+S;Sivasabarish+S;Sivasabarish+S"/>
 </p>
 
 <!-- Animated Intro -->
