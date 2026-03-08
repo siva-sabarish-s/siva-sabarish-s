@@ -45,5 +45,5 @@
 
 <!-- Bottom Unique Gradient Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:141E30&height=150&section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=150&section=footer)
 
