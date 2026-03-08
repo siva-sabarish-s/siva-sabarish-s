@@ -51,6 +51,8 @@
 
 <!-- Bottom Unique Gradient Banner -->
 
+## 🧠 Chip Design Simulation
+
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
-</p>
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
+</p>>
